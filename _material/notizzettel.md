@@ -1,3 +1,0 @@
-- Warum könnte Content.svelte in App.svelte sinnvoll sein?
-- Store data.js: csv - json?
-- s. package.json: "kannDasWeg"-Knoten
