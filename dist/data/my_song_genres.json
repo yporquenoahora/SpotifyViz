@@ -1,0 +1,658 @@
+[
+  {
+    "label": "chilean indie",
+    "value": 102
+  },
+  {
+    "label": "deep latin alternative",
+    "value": 102
+  },
+  {
+    "label": "cantautor",
+    "value": 105
+  },
+  {
+    "label": "latin arena pop",
+    "value": 74
+  },
+  {
+    "label": "latin pop",
+    "value": 76
+  },
+  {
+    "label": "mexican pop",
+    "value": 131
+  },
+  {
+    "label": "rock en espanol",
+    "value": 131
+  },
+  {
+    "label": "spanish pop",
+    "value": 105
+  },
+  {
+    "label": "granada indie",
+    "value": 109
+  },
+  {
+    "label": "alternative dance",
+    "value": 143
+  },
+  {
+    "label": "electro house",
+    "value": 120
+  },
+  {
+    "label": "electroclash",
+    "value": 136
+  },
+  {
+    "label": "electronica",
+    "value": 120
+  },
+  {
+    "label": "filter house",
+    "value": 120
+  },
+  {
+    "label": "french indietronica",
+    "value": 120
+  },
+  {
+    "label": "french techno",
+    "value": 120
+  },
+  {
+    "label": "new french touch",
+    "value": 120
+  },
+  {
+    "label": "new rave",
+    "value": 145
+  },
+  {
+    "label": "british soul",
+    "value": 83
+  },
+  {
+    "label": "neo soul",
+    "value": 122
+  },
+  {
+    "label": "spanish indie pop",
+    "value": 148
+  },
+  {
+    "label": "spanish noise pop",
+    "value": 148
+  },
+  {
+    "label": "dance rock",
+    "value": 116
+  },
+  {
+    "label": "new romantic",
+    "value": 137
+  },
+  {
+    "label": "new wave",
+    "value": 137
+  },
+  {
+    "label": "new wave pop",
+    "value": 139
+  },
+  {
+    "label": "pop rock",
+    "value": 139
+  },
+  {
+    "label": "rock",
+    "value": 145
+  },
+  {
+    "label": "synthpop",
+    "value": 137
+  },
+  {
+    "label": "arkansas country",
+    "value": 121
+  },
+  {
+    "label": "outlaw country",
+    "value": 121
+  },
+  {
+    "label": "candy pop",
+    "value": 63
+  },
+  {
+    "label": "permanent wave",
+    "value": 145
+  },
+  {
+    "label": "power pop",
+    "value": 63
+  },
+  {
+    "label": "dominican pop",
+    "value": 13
+  },
+  {
+    "label": "spanish synthpop",
+    "value": 133
+  },
+  {
+    "label": "chilean rock",
+    "value": 15
+  },
+  {
+    "label": "pop electronico",
+    "value": 115
+  },
+  {
+    "label": "glam rock",
+    "value": 140
+  },
+  {
+    "label": "mellow gold",
+    "value": 140
+  },
+  {
+    "label": "piano rock",
+    "value": 140
+  },
+  {
+    "label": "spanish electropop",
+    "value": 147
+  },
+  {
+    "label": "dance pop",
+    "value": 111
+  },
+  {
+    "label": "pop",
+    "value": 111
+  },
+  {
+    "label": "british alternative rock",
+    "value": 112
+  },
+  {
+    "label": "experimental indie rock",
+    "value": 112
+  },
+  {
+    "label": "indie rock",
+    "value": 145
+  },
+  {
+    "label": "rap canario",
+    "value": 21
+  },
+  {
+    "label": "urbano espanol",
+    "value": 21
+  },
+  {
+    "label": "electro swing",
+    "value": 22
+  },
+  {
+    "label": "hip-hop experimental",
+    "value": 22
+  },
+  {
+    "label": "nu jazz",
+    "value": 22
+  },
+  {
+    "label": "rap marseille",
+    "value": 22
+  },
+  {
+    "label": "doo-wop",
+    "value": 23
+  },
+  {
+    "label": "rhythm and blues",
+    "value": 23
+  },
+  {
+    "label": "folk rock",
+    "value": 43
+  },
+  {
+    "label": "sunshine pop",
+    "value": 24
+  },
+  {
+    "label": "beatlesque",
+    "value": 142
+  },
+  {
+    "label": "british invasion",
+    "value": 142
+  },
+  {
+    "label": "classic rock",
+    "value": 142
+  },
+  {
+    "label": "merseybeat",
+    "value": 142
+  },
+  {
+    "label": "psychedelic rock",
+    "value": 142
+  },
+  {
+    "label": "electropop",
+    "value": 143
+  },
+  {
+    "label": "french indie pop",
+    "value": 27
+  },
+  {
+    "label": "indietronica",
+    "value": 49
+  },
+  {
+    "label": "modern rock",
+    "value": 145
+  },
+  {
+    "label": "socal pop punk",
+    "value": 27
+  },
+  {
+    "label": "rap latina",
+    "value": 147
+  },
+  {
+    "label": "rap politico",
+    "value": 110
+  },
+  {
+    "label": "rock-and-roll",
+    "value": 85
+  },
+  {
+    "label": "rockabilly",
+    "value": 31
+  },
+  {
+    "label": "acoustic punk",
+    "value": 126
+  },
+  {
+    "label": "alternative rock",
+    "value": 126
+  },
+  {
+    "label": "anti-folk",
+    "value": 126
+  },
+  {
+    "label": "punk",
+    "value": 126
+  },
+  {
+    "label": "art pop",
+    "value": 106
+  },
+  {
+    "label": "europop",
+    "value": 132
+  },
+  {
+    "label": "cancion melodica",
+    "value": 76
+  },
+  {
+    "label": "pop romantico",
+    "value": 76
+  },
+  {
+    "label": "riot grrrl",
+    "value": 124
+  },
+  {
+    "label": "indie cordoba",
+    "value": 37
+  },
+  {
+    "label": "bossa nova",
+    "value": 39
+  },
+  {
+    "label": "brazilian rock",
+    "value": 39
+  },
+  {
+    "label": "mpb",
+    "value": 39
+  },
+  {
+    "label": "psicodelia brasileira",
+    "value": 39
+  },
+  {
+    "label": "tropicalia",
+    "value": 39
+  },
+  {
+    "label": "electrofox",
+    "value": 40
+  },
+  {
+    "label": "munich electronic",
+    "value": 40
+  },
+  {
+    "label": "nu disco",
+    "value": 40
+  },
+  {
+    "label": "indie catala",
+    "value": 41
+  },
+  {
+    "label": "latin rock",
+    "value": 115
+  },
+  {
+    "label": "adult standards",
+    "value": 85
+  },
+  {
+    "label": "brill building pop",
+    "value": 43
+  },
+  {
+    "label": "folk",
+    "value": 43
+  },
+  {
+    "label": "singer-songwriter",
+    "value": 43
+  },
+  {
+    "label": "soft rock",
+    "value": 138
+  },
+  {
+    "label": "latin jazz",
+    "value": 127
+  },
+  {
+    "label": "mambo",
+    "value": 127
+  },
+  {
+    "label": "musica tradicional cubana",
+    "value": 127
+  },
+  {
+    "label": "salsa",
+    "value": 127
+  },
+  {
+    "label": "baltimore indie",
+    "value": 49
+  },
+  {
+    "label": "chillwave",
+    "value": 49
+  },
+  {
+    "label": "rockabilly en espanol",
+    "value": 105
+  },
+  {
+    "label": "spanish new wave",
+    "value": 141
+  },
+  {
+    "label": "spanish rockabilly",
+    "value": 105
+  },
+  {
+    "label": "classic soul",
+    "value": 86
+  },
+  {
+    "label": "memphis soul",
+    "value": 62
+  },
+  {
+    "label": "soul",
+    "value": 134
+  },
+  {
+    "label": "soul blues",
+    "value": 62
+  },
+  {
+    "label": "southern soul",
+    "value": 62
+  },
+  {
+    "label": "contemporary country",
+    "value": 67
+  },
+  {
+    "label": "country",
+    "value": 67
+  },
+  {
+    "label": "country dawn",
+    "value": 67
+  },
+  {
+    "label": "country road",
+    "value": 67
+  },
+  {
+    "label": "swedish synth",
+    "value": 71
+  },
+  {
+    "label": "cumbia",
+    "value": 115
+  },
+  {
+    "label": "latin alternative",
+    "value": 131
+  },
+  {
+    "label": "tropical alternativo",
+    "value": 115
+  },
+  {
+    "label": "dance-punk",
+    "value": 124
+  },
+  {
+    "label": "queercore",
+    "value": 124
+  },
+  {
+    "label": "gruperas inmortales",
+    "value": 82
+  },
+  {
+    "label": "musica mexicana",
+    "value": 82
+  },
+  {
+    "label": "nu-cumbia",
+    "value": 82
+  },
+  {
+    "label": "tropical",
+    "value": 82
+  },
+  {
+    "label": "quiet storm",
+    "value": 86
+  },
+  {
+    "label": "chicago soul",
+    "value": 86
+  },
+  {
+    "label": "funk",
+    "value": 86
+  },
+  {
+    "label": "veracruz indie",
+    "value": 131
+  },
+  {
+    "label": "northern soul",
+    "value": 93
+  },
+  {
+    "label": "disco",
+    "value": 149
+  },
+  {
+    "label": "spanish electronic",
+    "value": 97
+  },
+  {
+    "label": "alternative metal",
+    "value": 99
+  },
+  {
+    "label": "cyberpunk",
+    "value": 99
+  },
+  {
+    "label": "electronic rock",
+    "value": 99
+  },
+  {
+    "label": "industrial",
+    "value": 99
+  },
+  {
+    "label": "industrial metal",
+    "value": 99
+  },
+  {
+    "label": "industrial rock",
+    "value": 99
+  },
+  {
+    "label": "nu metal",
+    "value": 99
+  },
+  {
+    "label": "art punk",
+    "value": 108
+  },
+  {
+    "label": "art rock",
+    "value": 108
+  },
+  {
+    "label": "funk rock",
+    "value": 108
+  },
+  {
+    "label": "post-punk",
+    "value": 108
+  },
+  {
+    "label": "zolo",
+    "value": 108
+  },
+  {
+    "label": "deep new americana",
+    "value": 118
+  },
+  {
+    "label": "manitoba indie",
+    "value": 118
+  },
+  {
+    "label": "atl hip hop",
+    "value": 122
+  },
+  {
+    "label": "britpop",
+    "value": 125
+  },
+  {
+    "label": "lancashire indie",
+    "value": 125
+  },
+  {
+    "label": "eurodance",
+    "value": 132
+  },
+  {
+    "label": "hip house",
+    "value": 132
+  },
+  {
+    "label": "jazz blues",
+    "value": 134
+  },
+  {
+    "label": "soul jazz",
+    "value": 134
+  },
+  {
+    "label": "torch song",
+    "value": 134
+  },
+  {
+    "label": "vocal jazz",
+    "value": 134
+  },
+  {
+    "label": "hi-nrg",
+    "value": 137
+  },
+  {
+    "label": "sophisti-pop",
+    "value": 137
+  },
+  {
+    "label": "album rock",
+    "value": 138
+  },
+  {
+    "label": "hard rock",
+    "value": 138
+  },
+  {
+    "label": "olympia wa indie",
+    "value": 143
+  },
+  {
+    "label": "baroque pop",
+    "value": 145
+  },
+  {
+    "label": "canadian indie",
+    "value": 145
+  },
+  {
+    "label": "quebec indie",
+    "value": 145
+  },
+  {
+    "label": "bboy",
+    "value": 146
+  },
+  {
+    "label": "instrumental funk",
+    "value": 146
+  }
+]

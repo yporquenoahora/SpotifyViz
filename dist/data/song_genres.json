@@ -1,0 +1,166 @@
+[
+    {
+      "label": "adult standards",
+      "value": 99
+    },
+    {
+      "label": "easy listening",
+      "value": 90
+    },
+    {
+      "label": "lounge",
+      "value": 95
+    },
+    {
+      "label": "vocal jazz",
+      "value": 85
+    },
+    {
+      "label": "space age pop",
+      "value": 75
+    },
+    {
+      "label": "swing",
+      "value": 85
+    },
+    {
+      "label": "torch song",
+      "value": 59
+    },
+    {
+      "label": "american folk revival",
+      "value": 5
+    },
+    {
+      "label": "folk",
+      "value": 5
+    },
+    {
+      "label": "american modern classical",
+      "value": 10
+    },
+    {
+      "label": "deep adult standards",
+      "value": 93
+    },
+    {
+      "label": "rock-and-roll",
+      "value": 99
+    },
+    {
+      "label": "rockabilly",
+      "value": 99
+    },
+    {
+      "label": "man's orchestra",
+      "value": 90
+    },
+    {
+      "label": "vocal harmony group",
+      "value": 89
+    },
+    {
+      "label": "exotica",
+      "value": 55
+    },
+    {
+      "label": "laboratorio",
+      "value": 55
+    },
+    {
+      "label": "library music",
+      "value": 55
+    },
+    {
+      "label": "cowboy western",
+      "value": 80
+    },
+    {
+      "label": "doo-wop",
+      "value": 97
+    },
+    {
+      "label": "canadian country",
+      "value": 34
+    },
+    {
+      "label": "canadian pop",
+      "value": 84
+    },
+    {
+      "label": "mellow gold",
+      "value": 92
+    },
+    {
+      "label": "soft rock",
+      "value": 34
+    },
+    {
+      "label": "mambo",
+      "value": 74
+    },
+    {
+      "label": "movie tunes",
+      "value": 45
+    },
+    {
+      "label": "classic soundtrack",
+      "value": 52
+    },
+    {
+      "label": "rhythm and blues",
+      "value": 97
+    },
+    {
+      "label": "big band",
+      "value": 64
+    },
+    {
+      "label": "jazz clarinet",
+      "value": 64
+    },
+    {
+      "label": "tin pan alley",
+      "value": 64
+    },
+    {
+      "label": "nashville sound",
+      "value": 91
+    },
+    {
+      "label": "classic italian pop",
+      "value": 70
+    },
+    {
+      "label": "italian adult pop",
+      "value": 70
+    },
+    {
+      "label": "bubblegum pop",
+      "value": 99
+    },
+    {
+      "label": "sunshine pop",
+      "value": 92
+    },
+    {
+      "label": "novelty",
+      "value": 73
+    },
+    {
+      "label": "soul",
+      "value": 85
+    },
+    {
+      "label": "louisiana blues",
+      "value": 82
+    },
+    {
+      "label": "memphis blues",
+      "value": 82
+    },
+    {
+      "label": "new orleans blues",
+      "value": 82
+    }
+  ]
