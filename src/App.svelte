@@ -7,10 +7,10 @@
     import Sources from "@components/Sources.svelte";
 
     import ColumnChart from '@views/ColumnChart/ColumnChart.svelte';
-    import Words from "@components/Words.svelte"; 
+  
     import HeatMap from "@components/Plot/HeatMap.svelte";
     import HeatMapSVG from "@components/Plot/HeatMapSVG.svelte";
-    import Quote from "@components/Quote.svelte";
+    
     //import Scatter from "@components/Charts/Scatter.svg.svelte";
     
     import Plot from '@components/Plot/example.svelte'

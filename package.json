@@ -1,6 +1,6 @@
 {
-	"name": "projekt-name",
-	"version": "1.0.0",
+	"name": "impostora",
+	"version": "2.0.0",
 	"author": "Aída Márquez",
 	"template": {
 		"name": "svelte-iframe",

@@ -11,7 +11,7 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 import sveltePreprocess from 'svelte-preprocess';
 import autoprefixer from 'autoprefixer';
 // import { viteSingleFile } from './vite-plugin-sp-singlefile-v0.9.0';
-//import { viteSingleFile } from './vite-plugin-sp-singlefile-v0.11.1';
+import { viteSingleFile } from './vite-plugin-sp-singlefile-v0.11.1';
 
 // https://github.com/vbenjs/vite-plugin-html
 
@@ -23,7 +23,7 @@ import autoprefixer from 'autoprefixer';
 const htmlFile = "index.html";
 const htmlFileDev = htmlFile;
 const htmlData = {
-    title: 'EDA',
+    title: 'EDA Spotify',
     injectScript: `<script type="module" src="/src/app.js"></script>`
 };
 const port = 1947;
@@ -49,9 +49,9 @@ const config = defineConfig({
         ViteAliases({
             allowLogging: false
         }),
-        //viteSingleFile({target: buildTarget}),
+        viteSingleFile({target: buildTarget}),
         createHtmlPlugin({
-            minify: true,
+            minify: false,
             template: htmlFileDev,
             inject: {data: htmlData}
         })
@@ -62,7 +62,7 @@ const config = defineConfig({
     },
     build: {
         sourcemap: !production,
-        target: 'es2022',
+        target: 'esnext',//'es2022',
         minify: production ? 'terser' : false,
         assetsInlineLimit: 100000000,
         chunkSizeWarningLimit: 100000000,
@@ -98,10 +98,10 @@ const config = defineConfig({
 				extensions: ['.mjs', '.js', '.svelte'],
 				mainFields: ['svelte', 'browser', 'module', 'main']
 			}*/
-        },
+        },/*
         babel: {
             configFile: './.babelrc'
-          }
+          }*/
     },
     css: {
         postcss: {
